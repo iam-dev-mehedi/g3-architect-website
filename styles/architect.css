@@ -175,6 +175,14 @@ main{
 .sponsors-img-container img{
     width: 165px;
 }
+.footer-section{
+    text-align: center;
+    background: rgba(255, 144, 14, 0.10);
+    font-size: 1.5rem;
+    border-radius: 8px;
+    margin: 240px;
+    padding: 35px;
+}
 
 
 
